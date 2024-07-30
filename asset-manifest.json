@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/almawasi/static/css/main.1f6c1378.css",
+    "main.js": "/almawasi/static/js/main.ba0b8863.js",
+    "static/js/453.9151b109.chunk.js": "/almawasi/static/js/453.9151b109.chunk.js",
+    "index.html": "/almawasi/index.html",
+    "main.1f6c1378.css.map": "/almawasi/static/css/main.1f6c1378.css.map",
+    "main.ba0b8863.js.map": "/almawasi/static/js/main.ba0b8863.js.map",
+    "453.9151b109.chunk.js.map": "/almawasi/static/js/453.9151b109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6c1378.css",
+    "static/js/main.ba0b8863.js"
+  ]
+}
